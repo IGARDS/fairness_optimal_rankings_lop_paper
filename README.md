@@ -1,1 +1,4 @@
-# fairness_optimal_rankings_lop_paper
+# Fairness and the set of optimal rankings for the linear ordering problem
+
+The experiments and data from this paper are available in different repositories. They are:
+
